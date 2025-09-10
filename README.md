@@ -1,2 +1,2 @@
 # Bioinformatics_training
-lectures and practice in bioinformatics
+Лекции и практика от инстита Биоинформатики для курсанта 2025 - 2026 года :)
